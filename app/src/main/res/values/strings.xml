@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MustKnowLib App</string>
+    <string name="name">Name</string>
+    <string name="new_description">"BetterKnife test.."</string>
+    <string name="save">Save</string>
+    <string name="next">Next</string>
+    <string name="title_activity_user">UserActivity</string>
+</resources>
